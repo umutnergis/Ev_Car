@@ -23,6 +23,6 @@ Bu proje, bir araç için uzun far, kısa far, dörtlü flaşör, sağ sinyal, s
 
 ![Proje Görseli](https://github.com/umutnergis/Ev_Car/blob/main/Screen_dashboard/Dashboard.png)
 
-
+![Proje Görseli](https://github.com/umutnergis/Ev_Car/blob/main/Screen_dashboard/Dashboard2.png)
 
 
